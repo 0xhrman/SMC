@@ -1,7 +1,7 @@
 # SMC
 Tools ini masih dalam tahap uji coba (BETA).
 
-SMC Adalah tools untuk Gathering Information dimana tools ini bisa mencari dan menemukan informasi dengan terkait fitur yang ada. dan tentunya OPEN SOURCE.
+SMC Adalah tools untuk Gathering Information dimana tools ini bisa mencari dan menemukan informasi dengan fitur yang ada. dan tentunya OPEN SOURCE.
 
 ## Fitur
 1. Gathering Phone Number
