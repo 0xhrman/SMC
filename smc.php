@@ -1,5 +1,5 @@
 <?php
-// TOOLS GABUT COKK
+// SMC Tools V 1.0 Beta
 system('clear');
 include "header.php";
 
