@@ -1,12 +1,17 @@
 # SMC
+Tools ini masih dalam tahap uji coba (BETA).
+
 SMC Adalah tools untuk Gathering Information dimana tools ini bisa mencari dan menemukan informasi dengan terkait fitur yang ada. dan tentunya OPEN SOURCE.
 
 ## Fitur
 1. Gathering Phone Number
 2. IP Tracking
 3. Check Valid Email
-4. Detect CMS
-5. Lookup Domain
+4. Detect CMS, dan
+5. Lookup Domain.
+
+## Notice
+Fitur-fitur akan bertambah pada saat saya gabut dan mengisi kekosongan.
 
 ## Preview
 ## Gathering Phone Number
